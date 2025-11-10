@@ -1,0 +1,4 @@
+com\crudunablunes\app\controlador\AgendaControlador.class
+com\crudunablunes\app\repositorio\RepositorioAgenda.class
+com\crudunablunes\app\CrudUnabLunesApplication.class
+com\crudunablunes\app\entidades\Agenda.class
